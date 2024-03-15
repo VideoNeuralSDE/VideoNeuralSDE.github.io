@@ -1,2 +1,0 @@
-# VideoNeuralSDE.github.io
-Offi
